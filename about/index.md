@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About
+title: Who We Are
 date: {}
 modified: {}
 excerpt: This is the Skinny Bones about page.
