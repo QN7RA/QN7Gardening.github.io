@@ -5,17 +5,17 @@
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Latest News
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Updates from the Garden Club."
   image: 400x250.gif
 
-- title: Media
+- title: Photo Gallery
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "The terrace in bloom."
   image: 400x250.gif
 
-- title: About
+- title: Who we are
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "All about us."
   image: 400x250.gif
