@@ -3,13 +3,14 @@ layout: home
 permalink: /
 image:
   feature: WilliamMorris.jpg
+published: true
 ---
 
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Gardening Days:</h2>
+  <p class="post-excerpt">Last Sunday of Every Month</p>
 </div><!-- /.tile -->
 
 <div class="tile">
