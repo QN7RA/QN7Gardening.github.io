@@ -27,16 +27,17 @@ gems:
 
 # Site owner
 owner:
-  name: "Michael Rose"
-  web: "https://mademistakes.com"
-  twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  name: "Queensland Road Residents Association"
+  web: "http://queenslandroad.wixsite.com/qlrra"
+  twitter:
+  bio: 
+  avatar: # 160x160 px image for author byline
+  facebook: https://www.facebook.com/groups/QN71QueenslandRoad/ 
   google:
-    plus: "+MichaelRoseDesign"
-    ad-client: "ca-pub-7328585512091257"
-    ad-slot: 3049671934
-  disqus-shortname:
+    plus: 
+    ad-client:
+    ad-slot:
+  disqus-shortname: https-qn7gardening-github-io
 
 
 include:
