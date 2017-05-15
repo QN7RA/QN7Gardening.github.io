@@ -1,15 +1,16 @@
 ---
 layout: article
-title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+title: About
+date: {}
+modified: {}
+excerpt: This is the Skinny Bones about page.
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: null
+  teaser: null
+  thumb: null
 share: false
 ads: false
+published: true
 ---
 
 In 2017 residents were given the go ahead (and some start-up funding) by Newlon Housing Association to take a more active role in the maintenance and beautification of the communal terrace garden between Tower 1 and Tower 3 Queensland Road.
