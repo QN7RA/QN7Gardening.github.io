@@ -1,8 +1,13 @@
 # Site navigation links
 
-- title: Getting Started
+- title: Who we are
+  url: /about/
+  excerpt: "All about us."
+  image: 400x250.gif
+  
+- title: Join in!
   url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Everything you need to know to join in!"
   image: 400x250.gif
 
 - title: Latest News
@@ -15,7 +20,4 @@
   excerpt: "The terrace in bloom."
   image: 400x250.gif
 
-- title: Who we are
-  url: /about/
-  excerpt: "All about us."
-  image: 400x250.gif
+
