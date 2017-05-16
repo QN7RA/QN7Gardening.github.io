@@ -59,5 +59,3 @@ Coming soon!
 ## Forum
 
 Coming soon! In the interim we are using Facebook Group Messaging, to be added to this please join the [QN7 Queensland Road Facebook Group]( https://www.facebook.com/groups/QN71QueenslandRoad/).  
-
----
