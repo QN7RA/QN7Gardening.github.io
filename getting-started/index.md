@@ -26,9 +26,9 @@ Our regular gardening days are held on the last Sunday of every month from 11am 
 
 ---
 
-## Daily Watering
+## Extra Watering
 
-The vegetables, herbs and flowers in the tall containers and the low vegetable will always appreciate extra watering particularly as the terrace is so windy! If you happen to be down on the terrace there is a water spout on the left handside of the door leading into Tower 1 from the terrace and watering cans of all sizes in the storage box near the low vegetable planter. 
+The vegetables, herbs and flowers in the tall containers and the low vegetable container will always appreciate extra watering particularly as the terrace is so windy! If you happen to be down on the terrace there is a water spout on the left handside of the door leading into Tower 1 from the terrace and watering cans of all sizes in the storage box near the low vegetable planter. 
 
 ---
 
