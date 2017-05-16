@@ -4,7 +4,7 @@ title: 'Gardening Days: Last Sunday of the Month!'
 categories: articles
 modified: 
 tags:
-  - sample
+  - events
 comments: true
 ads: false
 published: true
