@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Event Photos"
+title: "Enjoy the view!"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "Photos from the terrace."
+excerpt: "A collection of photos from the terrace."
 tags: []
 image:
   feature:
