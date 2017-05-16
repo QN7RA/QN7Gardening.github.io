@@ -2,12 +2,12 @@
 
 - title: Who we are
   url: /about/
-  excerpt: "All about us."
+  excerpt: "All about us"
   image: 400x250.gif
   
 - title: Join in!
   url: /getting-started/
-  excerpt: "Everything you need to know to join in!"
+  excerpt: "Ideas for getting involved"
   image: 400x250.gif
 
 - title: Latest News
