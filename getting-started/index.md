@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Join in the Fun!
-date: {2017-05-15}
-modified: {2017-05-15}
+date: 2017-05-15
+modified: 2017-05-15
 excerpt: null
 tags: []
 image:
