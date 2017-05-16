@@ -3,7 +3,7 @@ layout: article
 title: Join in the Fun!
 date: 2017-05-15
 modified: 2017-05-15
-excerpt: null
+excerpt: There are a variety of ways to get involved.
 tags: []
 image:
   feature: null
@@ -12,8 +12,6 @@ image:
 share: false
 published: true
 ---
-
-There are a variety of ways to join in the fun.
 
 {% include toc.html %}
 
