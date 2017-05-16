@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: williammorrisheader.jpg
+  feature: WilliamMorrisHeader.jpg
 published: true
 ---
 
