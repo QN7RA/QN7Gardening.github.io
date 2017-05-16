@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Enjoy the view!"
+title: "Photo Gallery"
 date: 2014-05-30T11:40:45-04:00
 modified:
 excerpt: "A collection of photos from the terrace."
