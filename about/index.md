@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Who We Are
-date: {2017-05-16}
-modified: {2017-05-16}
+date: {}
+modified: {}
 excerpt: This is the QN7 Gardening about page.
 image:
   feature: null
