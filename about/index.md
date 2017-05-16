@@ -1,9 +1,9 @@
 ---
 layout: article
 title: Who We Are
-date: {}
+date: {2017-05-16}
 modified: {}
-excerpt: This is the Skinny Bones about page.
+excerpt: This is the QN7 Gardening about page.
 image:
   feature: null
   teaser: null
