@@ -26,6 +26,12 @@ Our regular gardening days are held on the last Sunday of every month from 11am 
 
 ---
 
+## Daily Watering
+
+The vegetables, herbs and flowers in the tall containers and the low vegetable will always appreciate extra watering particularly as the terrace is so windy! If you happen to be down on the terrace there is a water spout on the left handside of the door leading into Tower 1 from the terrace and watering cans of all sizes in the storage box near the low vegetable planter. 
+
+---
+
 ## Enjoy the Herb & Veggies
 
 Everything planted on the terrace is there for all to enjoy. For more information on what you might find and how to harvest it see the articles under [Latest News](https://qn7gardening.github.io/articles/). 
