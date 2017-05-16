@@ -22,3 +22,5 @@ All residents of all ages and abilities are invited to join in the fun!
 ## Get in Touch
 
 If you have any questions about this initiative, join the discussion on this blog or email us at: [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com)
+
+Vivian & Nora
