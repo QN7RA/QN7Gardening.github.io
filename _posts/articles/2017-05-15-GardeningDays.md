@@ -2,11 +2,11 @@
 layout: article
 title: 'Gardening Days: Last Sunday of the Month!'
 categories: articles
-modified: {}
+modified: 
 tags:
   - sample
 comments: true
-ads: true
+ads: false
 published: true
 ---
 
