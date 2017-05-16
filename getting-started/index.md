@@ -13,7 +13,7 @@ share: false
 published: true
 ---
 
-There are a variety of ways to join in the fun!
+There are a variety of ways to join in the fun.
 
 {% include toc.html %}
 
