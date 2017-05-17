@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Gardening Days: Last Sunday of the Month"
+title: "Gardening Days-Last Sunday of the Month"
 categories: articles
 tags: [sample]
 comments: true
