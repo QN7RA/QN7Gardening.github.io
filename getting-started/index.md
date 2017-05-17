@@ -60,5 +60,3 @@ Please join in the discussion over on the [QN7 Gardening Slack Channel](https://
 
 Coming soon!
 
----
-
