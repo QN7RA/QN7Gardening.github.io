@@ -6,8 +6,8 @@ tags: [sample]
 comments: true
 ads: false
 image:
-  teaser: communal.jpg
-  feature: communal.jpg
+  teaser: MintTeaser.jpg
+  feature: MintFeature.jpg
 
 
 ---
