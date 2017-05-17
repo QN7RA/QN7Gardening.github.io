@@ -19,6 +19,6 @@ All residents of all ages and abilities are invited to [join in](https://qn7gard
 
 ## Get in Touch 
 
-If you have any questions about this initiative, join the discussion on this blog or email us at: [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com)
+If you have any questions about this initiative, pop over to the [Discussion Board](https://qn7gardening.slack.com/) or email us at: [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com).
 
 *Viv & Nora*
