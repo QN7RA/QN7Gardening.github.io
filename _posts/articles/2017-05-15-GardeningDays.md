@@ -6,8 +6,9 @@ tags: [sample]
 comments: true
 ads: false
 image:
-  feature: communalFeature.jpg
   teaser: communalarticle.jpg
+  feature: communalFeature.jpg
+
 
 ---
 
