@@ -32,7 +32,7 @@ Everything planted on the terrace is there for all to enjoy. For more informatio
 
 ---
 
-## Help us with our Wishlist
+## Help Fulfill our Wishlist
 
 We're still in need of a few supplies to keep the garden looking its best so donations always welcome! If you'd like to help supply the group with any of these please email Viv & Nora at <queenslandroadresidents@gmail.com>.  
 
@@ -44,14 +44,14 @@ Current needs for Spring 2017:
 
 ---
 
-## Donate
+## Discussion Board
 
-Coming soon!
+Please join in the discussion over on the [QN7 Gardening Slack Channel](https://qn7gardening.slack.com).
 
 ---
 
-## Forum
+## Donate
 
-Coming soon! In the interim we are using Facebook Group Messaging, to be added to this please join the [QN7 Queensland Road Facebook Group]( https://www.facebook.com/groups/QN71QueenslandRoad/).  
+Coming soon!
 
 ---
