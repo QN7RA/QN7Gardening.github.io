@@ -3,21 +3,21 @@
 - title: Who we are
   url: /about/
   excerpt: "All about us"
-  image: 400x250.gif
+  image: WhoWeAreTeaser.jpg
   
 - title: Join in!
   url: /getting-started/
   excerpt: "Ideas for getting involved"
-  image: 400x250.gif
+  image: JoinInTeaser.jpg
 
 - title: Latest News
   url: /articles/
   excerpt: "Updates from the Garden Club."
-  image: 400x250.gif
+  image: LatestNewsTeaser.jpg
 
 - title: Photo Gallery
   url: /media/
   excerpt: "The terrace in bloom"
-  image: 400x250.gif
+  image: Spring01Teaser.jpg
 
 
