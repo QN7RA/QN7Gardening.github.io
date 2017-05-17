@@ -4,6 +4,7 @@ title: "Gardening Days-Last Sunday of the Month"
 categories: articles
 tags: [sample]
 comments: true
+share: false
 ads: false
 image:
   teaser: MintTeaser.jpg
