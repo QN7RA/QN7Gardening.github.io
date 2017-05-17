@@ -21,8 +21,8 @@ Our regular gardening days are held on the **last Sunday of every month from 11a
 
 Next dates for your calendar:
 
-+ 28 May
-+ 25 June
-+ 30 July
-+ 27 August
++ 28 May 2017
++ 25 June 2017
++ 30 July 2017
++ 27 August 2017
 
