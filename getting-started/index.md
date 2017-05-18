@@ -52,7 +52,7 @@ Current needs for Spring 2017:
 
 ## Discussion Board
 
-Please join in the discussion over on the [QN7 Gardening Slack Channel](https://qn7gardening.slack.com).
+Please join in the discussion over on the [QN7 Gardening Slack Channel](https://qn7gardening.slack.com/shared_invite/MTg0NDIyNDk4MTYzLTE0OTUwMDU4NjItOTAzNWY2YzZiMQ).
 
 ---
 

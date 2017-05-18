@@ -3,9 +3,9 @@ layout: article
 title: Who We Are
 excerpt: This is the QN7 Gardening about page.
 image:
-  feature: null
-  teaser: null
-  thumb: null
+  teaser: Spring05Teaser.jpg
+  feature: Spring05Feature.jpg
+  credit: Nora McGregor
 share: false
 ads: false
 published: true
@@ -19,6 +19,6 @@ All residents of all ages and abilities are invited to [join in](https://qn7gard
 
 ## Get in Touch 
 
-If you have any questions about this initiative, pop over to the [Discussion Board](https://qn7gardening.slack.com/) or email us at: [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com).
+If you have any questions about this initiative, pop over to the [Discussion Board](https://qn7gardening.slack.com/shared_invite/MTg0NDIyNDk4MTYzLTE0OTUwMDU4NjItOTAzNWY2YzZiMQ) or email us at: [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com).
 
 *Viv & Nora*
