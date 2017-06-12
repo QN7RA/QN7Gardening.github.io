@@ -2,22 +2,16 @@
 
 - title: About the RA
   url: /about/
-  excerpt: "All about us"
+  excerpt: "All about the RA"
   image: WhoWeAreTeaser.jpg
   
-- title: Useful Info!
+- title: Info for Residents
   url: /getting-started/
   excerpt: "Information for Residents"
   image: JoinInTeaser.jpg
 
-- title: Meetings, Activities &amp Events
+- title: Initiatives
   url: /articles/
   excerpt: "Latest happenings on the street!"
   image: LatestNewsTeaser.jpg
-
-- title: Photo Gallery
-  url: /media/
-  excerpt: "Residents"
-  image: Spring01Teaser.jpg
-
 

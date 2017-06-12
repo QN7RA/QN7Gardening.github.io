@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Useful Info
+title: Info for Residents
 date: 2017-05-15
 modified: 2017-05-15
 excerpt: There are a variety of ways to get involved.

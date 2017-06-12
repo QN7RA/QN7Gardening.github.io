@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Meetings, Activities & Events"
-excerpt: "Updates from the garden and other resources."
+title: "Social"
+excerpt: "Meetings, Activities & Events on the Street."
 tags: []
 image:
   feature:
