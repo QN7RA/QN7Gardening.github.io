@@ -1,23 +1,23 @@
 # Site navigation links
 
-- title: Who we are
+- title: About the RA
   url: /about/
   excerpt: "All about us"
   image: WhoWeAreTeaser.jpg
   
-- title: Join in!
+- title: Useful Info!
   url: /getting-started/
-  excerpt: "Ideas for getting involved"
+  excerpt: "Information for Residents"
   image: JoinInTeaser.jpg
 
-- title: Latest News
+- title: Meetings, Activities &amp Events
   url: /articles/
-  excerpt: "Updates from the Garden Club"
+  excerpt: "Latest happenings on the street!"
   image: LatestNewsTeaser.jpg
 
 - title: Photo Gallery
   url: /media/
-  excerpt: "The terrace in bloom"
+  excerpt: "Residents"
   image: Spring01Teaser.jpg
 
 

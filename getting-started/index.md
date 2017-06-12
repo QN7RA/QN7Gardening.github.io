@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Join in the Fun!
+title: Useful Info
 date: 2017-05-15
 modified: 2017-05-15
 excerpt: There are a variety of ways to get involved.
@@ -15,7 +15,7 @@ published: true
 
 {% include toc.html %}
 
-## Garden Days
+## Report a Repair to Newlon
 
 Our regular gardening days are held on the last Sunday of every month from 11am to 1pm. They’re casual, open to all, and there’s always lots to do around the garden for all ages and abilities. But mostly it’s just an excuse to get together and enjoy the terrace together. Bring a picnic (or cocktail) and pop on down!
  
@@ -26,7 +26,7 @@ Our regular gardening days are held on the last Sunday of every month from 11am 
 
 ---
 
-## Extra Watering
+## Reporting Anti Social Behaviour to Newlon
 
 The vegetables, herbs and flowers in the tall containers and the low vegetable container will always appreciate extra watering particularly as the terrace is so windy! Join the [current watering rota](https://onedrive.live.com/view.aspx?resid=5EF2B33758F5D52!586&ithint=file%2cxlsx&app=Excel&authkey=!ABfQQDMQ-quGFb0) or if you happen to be down on the terrace there is a water spout on the left handside of the door leading into Tower 1 from the terrace and watering cans of all sizes in the storage box near the low vegetable planter. 
 

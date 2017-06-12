@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Latest News"
+title: "Meetings, Activities & Events"
 excerpt: "Updates from the garden and other resources."
 tags: []
 image:

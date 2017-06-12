@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Who We Are
+title: About the RA
 excerpt: This is the QN7 Gardening about page.
 image:
   teaser: Spring05Teaser.jpg
