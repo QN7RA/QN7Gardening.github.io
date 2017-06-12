@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "QN7 Gardening Club"
-description: "Communal Terrace Towers 1 & 3"
+title: "QN7 Residents Association"
+description: "Newlon Residents of Queensland Road"
 logo: logo125.jpg
 teaser: logo125.jpg
 locale: en
@@ -27,7 +27,7 @@ gems:
 
 # Site owner
 owner:
-  name: "Viv & Nora"
+  name: "Queensland Road RA"
   web: "http://queenslandroad.wixsite.com/qlrra"
   twitter:
   bio: 
