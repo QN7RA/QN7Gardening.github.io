@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: WilliamMorrisHeader.jpg
+  feature: 125logo.jpg
 published: true
 ---
 
