@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Info for Residents
+title: 
 date: 2017-05-15
 modified: 2017-05-15
 excerpt: "Useful info for Newlon Residents on Queensland Road"
@@ -15,7 +15,7 @@ published: true
 
 {% include toc.html %}
 
-### Report a Repair to Newlon
+## Report a Repair to Newlon
 
 + Email: repairs@newlon.org.uk
 + Phone: 020 7613 8080, or free from a landline on 0800 072 4611. (Lines are open from 9am-5pm)
@@ -27,7 +27,7 @@ Please ensure that you take a reference number when reporting a repair. You shou
 
 ---
 
-### Making A Complaint to Newlon
+## Making A Complaint to Newlon
 
 + Call the Service Centre: 020 7613 8080
 + Email: serviceresolution@newlon.org.uk
@@ -36,7 +36,7 @@ Please ensure that you take a reference number when reporting a repair. You shou
 
 ---
 
-### Reporting Anti Social Behaviour 
+## Reporting Anti Social Behaviour 
 
 + To Newlon  
   + Call the Service Centre: 020 7613 8080/0800 075 6699 (Out of hours after 5pm and before 9am)
@@ -49,12 +49,12 @@ Please ensure that you take a reference number when reporting a repair. You shou
 
 ---
 
-### Match Day at Arsenal
+## Match Day at Arsenal
 
 
 ---
 
-### DIY Home Repairs 
+## DIY Home Repairs 
 
 + Repairing Leaky toilets Tower 1 & 3 
 

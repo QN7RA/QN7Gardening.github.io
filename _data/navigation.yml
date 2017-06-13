@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: About Your RA
+- title: Your RA
   url: /about/
   excerpt: "Working for You"
   image: logoTeaser.jpg
@@ -10,12 +10,12 @@
   excerpt: "Useful Information for Residents"
   image: JoinInTeaser.jpg
 
-- title: Local Initiatives
+- title: Initiatives
   url: /initiatives/
-  excerpt: "Area Initiatives"
+  excerpt: "Local Area Initiatives"
   image: watchTeaser.jpg
 
-- title: Social Events
+- title: Social
   url: /social/
   excerpt: "Get involved!"
   image: LatestNewsTeaser.jpg
