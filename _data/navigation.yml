@@ -10,13 +10,13 @@
   excerpt: "Useful Information for Residents"
   image: JoinInTeaser.jpg
 
-- title: Initiatives
+- title: Local Initiatives
   url: /initiatives/
-  excerpt: "Neighbourhood Initiatives"
-  image: LatestNewsTeaser.jpg
+  excerpt: "Area Initiatives"
+  image: watchTeaser.jpg
 
-- title: Social
+- title: Social Events
   url: /social/
-  excerpt: "Upcoming Events & Activities"
+  excerpt: "Get involved!"
   image: LatestNewsTeaser.jpg
 
