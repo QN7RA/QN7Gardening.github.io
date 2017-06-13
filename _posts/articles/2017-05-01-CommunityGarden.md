@@ -6,8 +6,7 @@ tags: [sample]
 comments: true
 ads: false
 image:
-  teaser: MintTeaser.jpg
-  feature: MintFeature.jpg
+  teaser: watchTeaser.jpg
 
 
 ---

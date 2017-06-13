@@ -9,8 +9,7 @@ ads: false
 published: true
 
 image:
-  teaser: Spring01Teaser.jpg
-  feature: Spring01Feature.jpg
+  teaser: gardenTeaser.jpg
   credit: Vivian Buffard
 
 
