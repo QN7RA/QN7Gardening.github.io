@@ -1,7 +1,7 @@
 ---
 layout: article
-title: About the RA
-excerpt: This is the QN7 Gardening about page.
+title: About Your RA
+excerpt: This is the QN7 RA about page.
 image:
   teaser: Spring05Teaser.jpg
   feature: Spring05Feature.jpg

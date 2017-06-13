@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Social"
-excerpt: "Meetings, Activities & Events on the Street."
+title: "Initiatives"
+excerpt: "Neighbourhood Initiatives"
 tags: []
 image:
   feature:

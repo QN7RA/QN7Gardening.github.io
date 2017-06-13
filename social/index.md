@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Photo Gallery"
-excerpt: "A collection of photos from the terrace."
+title: "Social"
+excerpt: "Social Events & Activities"
 tags: []
 image:
   feature:
   teaser:
-published: false
+published: true
 ---
 
 <div class="tiles">

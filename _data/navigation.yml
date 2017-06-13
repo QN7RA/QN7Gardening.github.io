@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: About the RA
+- title: About Your RA
   url: /about/
-  excerpt: "All about the RA"
+  excerpt: "Working for You"
   image: WhoWeAreTeaser.jpg
   
 - title: Info for Residents
@@ -11,7 +11,12 @@
   image: JoinInTeaser.jpg
 
 - title: Initiatives
-  url: /articles/
+  url: /initiatives/
+  excerpt: "Latest happenings on the street!"
+  image: LatestNewsTeaser.jpg
+
+- title: Social
+  url: /social/
   excerpt: "Latest happenings on the street!"
   image: LatestNewsTeaser.jpg
 
