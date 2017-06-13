@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Social"
-excerpt: "Social Events & Activities"
+title: 
+excerpt: "Social Events, Activities & Happenings for Residents"
 tags: []
 image:
   feature:
