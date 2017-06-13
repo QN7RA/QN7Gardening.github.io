@@ -4,7 +4,7 @@ title: About Your RA
 excerpt: This is the QN7 RA about page.
 image:
   teaser: logoTeaser.jpg
-  feature: logoFeature.jpg
+  feature: logoTeaser.jpg
   credit: Nora McGregor
 share: false
 ads: false
