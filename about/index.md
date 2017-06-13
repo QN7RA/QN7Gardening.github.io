@@ -15,7 +15,7 @@ The Queensland Road Residents Association represents all Newlon residents living
 ​
 We represent over 250 households and are actively working in partnership with Newlon, Arsenal Hub, Highbury West Ward Partnership and Neighbourhood Watch to make our community as great as possible.   
 
-## How to get involved
+## The Committee
 
 The following **Committee Members** were elected for 2017/2018 by attendees of the Annual General Meeting (AGM) held 3 June 2017.
 
@@ -24,14 +24,23 @@ The following **Committee Members** were elected for 2017/2018 by attendees of t
 + Secretary: Lizzie Ramsey
 + Treasurer: Anna Morkowska  
 
-All residents 16 years and over living on the road are invited to become **General Members** of the Association. 
+## General Members
 
-General Members of the Association may stand for election to the committee.
+All residents 16 years and over living on the road are invited to become General Members. 
+To become a General Member you can sign-up attend a Residents Association meeting or contact that Secretary who will add your name to the register.
+
+General members are the backbone of the Residents Association:
+
++ Contribute to important discussions and commit to attending meetings regularly
++ Lend extra support to the Chair, Vice-Chair, Secretary & Treasurer from time to time.
++ Help organise and communicate Association events
++ Ensure issues raised by neighbours are addressed by the RA 
++ May stand for election to the committee.
  
-## 2017/2018 Resident Association Meetings
+## 2017/2018 Meetings Schedule 
 
-## 2017/2018 Meeting Minutes
-
+All residents are invited to attend Residents Association meetings. If you'd like to add an item to the agenda please [contact](https://qn7ra.github.io/contact/) the RA ahead of time.
+ 
 ## Get in Touch 
 
 + Email: queenslandroadresidents@gmail.com
