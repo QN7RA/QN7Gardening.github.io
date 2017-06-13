@@ -6,7 +6,7 @@ tags: [sample]
 comments: true
 ads: false
 image:
-  teaser: watchTeaser.jpg
+  teaser: gardenTeaser.jpg
 
 
 ---

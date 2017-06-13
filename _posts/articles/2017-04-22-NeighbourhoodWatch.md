@@ -9,7 +9,7 @@ ads: false
 published: true
 
 image:
-  teaser: gardenTeaser.jpg
+  teaser: watchTeaser.jpg
   credit: Vivian Buffard
 
 
