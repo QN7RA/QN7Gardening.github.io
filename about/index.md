@@ -3,8 +3,8 @@ layout: article
 title: About Your RA
 excerpt: This is the QN7 RA about page.
 image:
-  teaser: LogoTeaser.jpg
-  feature: LogoFeature.jpg
+  teaser: logoTeaser.jpg
+  feature: logoFeature.jpg
   credit: Nora McGregor
 share: false
 ads: false
