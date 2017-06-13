@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: logoFeature.jpg
+  feature: Background.jpg
 published: true
 ---
 
