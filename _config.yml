@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: logoTeaser.jpg
+title: QN7 Residents Association
 description: "Dedicated to Newlon Residents of Queensland Road"
-logo: logoFeature.jpg
+logo: logoTeaser.jpg
 teaser: logoTeaser.jpg
 locale: en
 url:
@@ -31,7 +31,7 @@ owner:
   web: 
   twitter:
   bio: 
-  avatar: logo125.jpg
+  avatar: logoTeaser.jpg
   facebook: 
   google:
     plus: 

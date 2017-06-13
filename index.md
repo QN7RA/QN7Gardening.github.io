@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: logo2.jpg
+  feature: logoTeaser.jpg
 published: true
 ---
 
