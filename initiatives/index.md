@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Initiatives"
-excerpt: "Neighbourhood Initiatives"
+title: 
+excerpt: "Area Initiatives"
 tags: []
 image:
   feature:

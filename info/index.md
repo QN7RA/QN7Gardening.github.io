@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 
+title: "Useful info for Newlon Residents on Queensland Road"
 date: 2017-05-15
 modified: 2017-05-15
 excerpt: "Useful info for Newlon Residents on Queensland Road"
